@@ -14,7 +14,7 @@
   </a>
 
   </a>
-  <a href="https://www.youtube.com/@oreidosites">
-    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://www.youtube.com>
+    
   </a>
 </p>
