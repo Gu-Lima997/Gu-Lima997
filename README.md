@@ -40,6 +40,7 @@ Portfólio de artes gráficas.
 🐍 Exercícios em Python
 Algoritmos e lógica de programação.
 
+---
 
 ## 🛠️ Tecnologias de trabalho
 
