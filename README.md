@@ -76,7 +76,4 @@ Algoritmos e lógica de programação.
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Gu-Lima997&theme=tokyonight&locale=pt_BR)
 
 ---
-
-🕒 **Última atualização:** <!-- LAST_UPDATED -->
----
 ![](https://komarev.com/ghpvc/?username=Gu-Lima997)
